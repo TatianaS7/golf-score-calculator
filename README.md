@@ -2,7 +2,7 @@
 SWE Apprenticeship Admissions Assessment - Golf Project
 
 
-The Function
+# The Function
 
 
 You need to write the function responsible for outputting the “named” score for the course (Birdie, Bogey, etc). So:
@@ -11,9 +11,9 @@ In the file index.js (should be showing by default, as usual), write the functio
 
 The function should receive two numbers as parameters.
 
-	par for the course
+- par for the course
 
-	strokes for the current course so far.
+- strokes for the current course so far.
 
 It should return a string representing the score.
 
