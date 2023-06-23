@@ -1,5 +1,4 @@
-# golf-score
-SWE Apprenticeship Admissions Assessment - Golf Project
+# SWE Apprenticeship Admissions Assessment - Golf Project
 
 
 # The Function
