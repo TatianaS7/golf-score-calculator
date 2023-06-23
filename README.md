@@ -1,8 +1,10 @@
 # SWE Apprenticeship Admissions Assessment - Golf Project
+This project was part of an admissions assessment through a program called Multiverse. I DID NOT CODE THIS ENTIRE PROJECT! Multiverse provided a functional game, and my job was to write the function that outputs the player's score 
 
+### My Code
+[index.js](golf-score-calculator/blob/main/index.js)
 
-# The Function
-
+## The Function
 
 You need to write the function responsible for outputting the “named” score for the course (Birdie, Bogey, etc). So:
 
